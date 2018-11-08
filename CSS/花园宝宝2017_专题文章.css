@@ -6,12 +6,9 @@
     word-spacing: 2px;
     letter-spacing: 2px;
     font-family: "Helvetica Neue","Microsoft YaHei",Arial,sans-serif;   
-    background-image: linear-gradient(90deg, rgba(50, 0, 0, 0.05) 3%, rgba(0, 0, 0, 0) 3%), linear-gradient(rgba(50, 0, 0, 0.05) 3%, rgba(0, 0, 0, 0) 3%);
-    background-size: 20px 20px;
-    background-position: center center;
 }
 .output_wrapper * {
-    font-size: inherit  ;
+    font-size: inherit;
     color: inherit;
     line-height: inherit;
     margin: 0px;
@@ -19,24 +16,20 @@
 }
 
 
-
 /*二、段落、标题和列表*/
 p {
-    margin: 1.7em 0px;
+    margin: 1.5em 0px;
 }
 h1,h2,h3,h4,h5,h6 {
-    margin: 1.6em 0px;
+    margin: 1.5em 0px;
     font-weight: bold;
 }
 h1 {
-    font-size: 1.6em;
+    font-size: 1.5em;
+    border-bottom: 2px solid rgb(239,112,96);
 }
 h2 {
     font-size: 1.2em;
-}
-h1{
-    border-bottom: 2px  solid   rgb(239,112,96);
-    font-size: 1.3em;
 }
 h1 span{
     display: inline-block;
@@ -50,7 +43,7 @@ h1 span{
 }
 h1:after{
     display: inline-block; 
-    content: " "; 
+    content: " ";
     vertical-align: bottom;
     border-bottom: 36px solid #EFEBE9;
     border-right: 20px solid transparent;  
