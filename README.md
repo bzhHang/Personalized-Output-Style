@@ -20,9 +20,9 @@
 ## 使用方法
 
 1. 打开[排版网址](http://md.aclickall.com)。
-2. 复制一篇 Markdown 文档（比如[这篇](https://raw.githubusercontent.com/tansongchen/Personalized-Output-Style/master/Articles/花园宝宝2017_学期复盘：从经验中快速学习.md)）的内容到左侧 Markdown 编辑区。
+2. 复制一篇 Markdown 文档（比如[这篇](https://raw.githubusercontent.com/tansongchen/Personalized-Output-Style/master/Articles/181105%20%E8%A5%BF%E6%96%B9%E9%9F%B3%E4%B9%90%E5%8F%91%E5%B1%95%E5%8F%B2%E7%AE%80%E4%BB%8B.md）的内容到左侧 Markdown 编辑区。
 3. 点击右上方按钮“一键排版”。
-4. 复制一篇 CSS 文档（比如[这篇](https://raw.githubusercontent.com/tansongchen/Personalized-Output-Style/master/CSS/%E8%8A%B1%E5%9B%AD%E5%AE%9D%E5%AE%9D2017_%E4%B8%93%E9%A2%98%E6%96%87%E7%AB%A0.css)）的内容到左侧 CSS 编辑区。
+4. 复制一篇 CSS 文档（比如[这篇](https://raw.githubusercontent.com/tansongchen/Personalized-Output-Style/master/CSS/PKU%E9%9F%B3%E5%88%9B%E7%A4%BE_%E4%B8%93%E9%A2%98%E6%96%87%E7%AB%A0.css)）的内容到左侧 CSS 编辑区。
 5. 点击左下方按钮“保存”。
 6. 在右方显示排版效果，核对无误后点击右上方按钮“复制”。
 7. 在微信公众号图文等界面粘贴。
